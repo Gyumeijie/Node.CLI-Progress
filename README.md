@@ -2,9 +2,9 @@ CLI-Progress
 ============
 Easy to use Progress-Bar for Command-Line/Terminal Applications
 
-![Demo](assets/cli-progress.gif)
+![Demo](https://raw.githubusercontent.com/Gyumeijie/Node.CLI-Progress/master/assets/cli-progress.gif)
 
-![Demo](assets/presets.png)
+![Demo](https://github.com/Gyumeijie/Node.CLI-Progress/blob/master/assets/presets.png?raw=true)
 
 Install
 --------
